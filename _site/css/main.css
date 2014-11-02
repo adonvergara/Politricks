@@ -1,3 +1,14 @@
-.container{
-	background-color: pink;
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+
+
+body {
+	background-image: url(/img/hero-background.jpg);
+	background-size: 1200px;
+	background-repeat: no-repeat;
+	background-position: 30px -500px, 100% 100%;
+
 }
